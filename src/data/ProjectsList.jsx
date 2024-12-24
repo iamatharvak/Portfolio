@@ -4,7 +4,12 @@ export const ProjectsList = {
       name: "Exotherm Chemtest Private Limited",
       description:
         "Developed a responsive website for Exotherm Chemtest Private Limited, a company providing IT consulting, auditing, QMS training, and testing services. The site features a professional design and provides information about their expertise in pharmaceutical, chemical, food, agriculture, environmental, and material testing industries.",
-      technologies: ["WordPress", "CSS", "JavaScript", "HTML5", "Figma"],
+      technologies: [
+        "WordPress",
+         "CSS", 
+         "JavaScript", 
+         "HTML5", 
+         "Figma"],
     },
     {
       name: "Turf Booking Application",
