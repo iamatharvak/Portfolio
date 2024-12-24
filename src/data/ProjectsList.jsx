@@ -1,82 +1,58 @@
 export const ProjectsList = {
   projects: [
     {
-      name: "StratAgile HRMS",
+      name: "Exotherm Chemtest Private Limited",
       description:
-        "Stratagile HRMS is a web-based Human Resource Management System built using React. It is designed to streamline HR processes and enhance organizational efficiency by providing a set of features for leave management, employee tracking, alumni management, branch office organization, holiday calendars, and working day schedules.",
-      technologies: [
-        "React JS",
-        "redux",
-        "REST APIs",
-        "axios",
-        "material UI",
-        "CSS",
-        "Git",
-        "GitHub",
-        "Figma",
-      ],
+        "Developed a responsive website for Exotherm Chemtest Private Limited, a company providing IT consulting, auditing, QMS training, and testing services. The site features a professional design and provides information about their expertise in pharmaceutical, chemical, food, agriculture, environmental, and material testing industries.",
+      technologies: ["WordPress", "CSS", "JavaScript", "HTML5", "Figma"],
     },
     {
-      name: "Zymsi - Gym Membership Platform",
+      name: "Turf Booking Application",
       description:
-        "Contributed to the frontend development of Zymsi, a platform facilitating flexible gym memberships. Implemented user-friendly interface features and collaborated closely with backend and design teams.",
-      technologies: [
-        "React JS",
-        "REST APIs",
-        "axios",
-        "material UI",
-        "CSS",
-        "Git",
-        "GitHub",
-        "Figma",
-      ],
-    },
-    {
-      name: "Personal Portfolio",
-      description:
-        "My portfolio is a website built with React.js and Tailwind CSS, utilizing React Router v6 to enable easy access to multiple pages. It was designed and created entirely by myself, showcasing my skills and projects. The website is responsive and visually appealing, providing a user-friendly experience.",
-      technologies: ["React JS", "Tailwind CSS", "Git", "GitHub", "Figma"],
-    },
-    {
-      name: "Dashboard Panel",
-      description:
-        "User Admin Dashboard created with React js, Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid to build this entire application. This application consists of Light and Dark Mode, four different Charts, three different Data Table Pages, FAQ Page, Form Page, and Calendar Integration.",
-      technologies: ["React JS", "Material UI"],
-    },
-    {
-      name: "Grid Line Builders",
-      description:
-        "Grid line builders is a static webpage built with HTML, CSS, and JavaScript. Users can see images of their work and contact information that helps to connect the home builders through a webpage. webpage builds responsive to multiple sizes of devices.",
-      technologies: ["HTML", "CSS", "JavaScript"],
-    },
-    {
-      name: "Netflix-Clone",
-      description:
-        "This project is a simplified front-end clone of Netflix. It was created with React js. It uses TMDB (The Movie Data Base ) API and uses the Axios tool. Users can click movie images with embedded YouTube trailers or related videos about the movie.",
-      technologies: [
-        "React JS",
-        "REST APIs",
-        "axios",
-        "CSS",
-        "Git",
-        "GitHub",
-        "Figma",
-      ],
-    },
-    {
-      name: "Olx-Clone",
-      description:
-        "Olx-clone builds with react js. using firebase as a backend and deploying in firebase. Olx-Clone is a potential classified advertisement website that categorizes objects in a user-friendly manner & displays them as advertisements.. Classifieds can be posted that involve selling, and buying using React-router, context, react hooks",
+        "Built a web application for booking sports facilities, such as playgrounds and courts. Integrated Firebase for user authentication, and developed an admin portal for managing bookings. Ensured availability status of facilities is updated in real-time during bookings.",
       technologies: [
         "React JS",
         "Firebase",
-        "REST APIs",
-        "axios",
-        "CSS",
-        "Git",
+        "JavaScript",
+        "CSS3",
+        "Material UI",
         "GitHub",
-        "Figma",
       ],
     },
+    {
+      name: "MyCLNQ Health",
+      description:
+        "Developed a health management application for tracking medical data and appointments. Integrated React for dynamic UI and Redux for efficient state management. Implemented Google Sign-In for seamless user authentication and ensured responsive design using Tailwind CSS and Bootstrap.",
+      technologies: [
+        "React JS",
+        "Redux",
+        "Google Sign-In SDK",
+        "Tailwind CSS",
+        "Bootstrap",
+        "Postman",
+        "GitHub",
+      ],
+    },
+    {
+      name: "Cash Kar Har Kadam (CKHK)",
+      description:
+        "Developed a health and fitness campaign website to encourage users to maintain a healthy lifestyle by completing daily health goals. Integrated React for dynamic UI development and Tailwind CSS for responsive design. Worked on  PayU payment gateway for secure transactions and optimized performance for various devices. Users are rewarded with cash coins for meeting their goals and can purchase health plans and read weekly fitness articles.",
+      technologies: ["React JS",
+         "Tailwind CSS",
+         "PayU",
+          "GitHub"],
+    },
+    {
+      "name": "FV Home (Provider and Command Center)",
+      "description": "Worked two healthcare management applications under the FV Home platform: FV Provider for healthcare providers and FV Command Center for administrators. FV Provider helped healthcare providers manage consultations, nursing care requests, and patient profiles, while FV Command Center enabled administrators to manage operational tasks such as patient profile verification, health articles publication, and transportation scheduling. ",
+      "technologies": [
+        "React JS",
+        "Redux",
+        "Zoom SDK",
+        "Tailwind CSS",
+        "GitHub"
+      ]
+    }
+    
   ],
 };

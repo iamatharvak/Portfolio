@@ -21,9 +21,9 @@ function Contact() {
           Get In Touch
         </h2>
         <p className="font-poppins mx-auto px-2 pb-6 text-center text-sm tracking-wider text-gray-900 lg:w-[50%]">
-          I'd love to connect and explore exciting opportunities with you!
-          Whether you have interesting projects, creative ideas, or just want to
-          chat, please don't hesitate to reach out. My inbox is open 24/7!
+          I’d love to connect and explore exciting opportunities together!
+          Whether you have innovative projects, creative ideas, or simply want
+          to chat, feel free to reach out. I’m always thrilled to connect!
         </p>
         <div className="mb-6 mt-6 flex justify-center space-x-6">
           {UserData.socialMedia.map((socialMedia, index) => (

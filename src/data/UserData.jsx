@@ -1,14 +1,14 @@
 export const UserData = {
   name: "Atharva Kulkarni",
   about:
-    "As a self-taught frontend developer, I specialize in creating dynamic, accessible websites that work seamlessly across any device. I consistently deliver creative solutions that improve user experiences. With proficiency in React.js, Redux,Nodejs, JavaScript, HTML5, and CSS, I excel in building high-quality, responsive web applications. My expertise with Git version control ensures efficient code management and smooth communication. I also have experience developing apps using Mini Program Studio frameworks and take pride in exceeding client expectations with innovative, high-caliber solutions.",
+    "As a fullstack developer, I specialize in creating dynamic, accessible websites that provide seamless experiences across all devices. My passion lies in delivering innovative solutions that enhance user engagement and usability. Proficient in React.js, Redux, Node.js, JavaScript, HTML5, and CSS, I excel in building high-quality, responsive web applications. I am committed to exceeding client expectations by delivering creative, user-centric, and high-caliber web solutions",
   resumeUrl:
-    "https://drive.google.com/file/d/1LSVLVmJA_3fhWtZPc_d_pHnkXhL4s-Oc/view",
+    "https://docs.google.com/document/d/1Ky7Xeei6K21DaRNbiGBnLE1HwN9Ra-cD/edit?usp=sharing&ouid=109222269124883338972&rtpof=true&sd=true",
   FooterLink: "https://www.linkedin.com/in/iamatharva-k/",
   socialMedia: [
     {
       socialMediaName: "github",
-      url: "hhttps://github.com/iamatharvak",
+      url: "https://github.com/iamatharvak",
       icon: "AiFillGithub",
     },
     {

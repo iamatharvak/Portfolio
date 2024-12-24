@@ -8,7 +8,7 @@ function Footer() {
   return (
     <div className="mb-2 flex items-center justify-center gap-2">
       <div className="font-poppins text-center text-xs">
-        <b>{currentYear}</b> Designed & Built by
+        <b>{currentYear}</b>  Built by
       </div>
       <div
         className="cursor-pointer text-sm font-bold tracking-wider"

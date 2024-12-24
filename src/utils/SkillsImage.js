@@ -56,7 +56,7 @@ import strapi from "../Assets/svg/skills/strapi.svg";
 import tensorflow from "../Assets/svg/skills/tensorflow.svg";
 import webix from "../Assets/svg/skills/webix.svg";
 import wordpress from "../Assets/svg/skills/wordpress.svg";
-
+import express from "../Assets/svg/skills/express-svgrepo-com.svg";
 import azure from "../Assets/svg/skills/azure.svg";
 import blender from "../Assets/svg/skills/blender.svg";
 import fastify from "../Assets/svg/skills/fastify.svg";
@@ -220,6 +220,8 @@ export const skillsImage = (skill) => {
       return wolframalpha;
     case "canva":
       return canva;
+    case "express":
+      return express
     default:
       break;
   }
