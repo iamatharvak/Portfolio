@@ -3,7 +3,7 @@ export const UserData = {
   about:
     "As a fullstack developer, I specialize in creating dynamic, accessible websites that provide seamless experiences across all devices. My passion lies in delivering innovative solutions that enhance user engagement and usability. Proficient in React.js, Redux, Node.js, JavaScript, HTML5, and CSS, I excel in building high-quality, responsive web applications. I am committed to exceeding client expectations by delivering creative, user-centric, and high-caliber web solutions",
   resumeUrl:
-    "https://docs.google.com/document/d/1Ky7Xeei6K21DaRNbiGBnLE1HwN9Ra-cD/edit?usp=sharing&ouid=109222269124883338972&rtpof=true&sd=true",
+    "https://drive.google.com/file/d/197LkmcKG6d5m0cYE0XljoqeRnTn-i8wb/view?usp=sharing",
   FooterLink: "https://www.linkedin.com/in/iamatharva-k/",
   socialMedia: [
     {

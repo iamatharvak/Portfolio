@@ -10,6 +10,7 @@ export const ProjectsList = {
          "JavaScript", 
          "HTML5", 
          "Figma"],
+         link : "https://exothermchemtest.in/"
     },
     {
       name: "Turf Booking Application",
@@ -37,6 +38,7 @@ export const ProjectsList = {
         "Postman",
         "GitHub",
       ],
+      link:"https://myclnq.co/india/"
     },
     {
       name: "Cash Kar Har Kadam (CKHK)",
@@ -46,18 +48,33 @@ export const ProjectsList = {
          "Tailwind CSS",
          "PayU",
           "GitHub"],
+        link:"https://cashkarharkadam.com/"
     },
     {
-      "name": "FV Home (Provider and Command Center)",
-      "description": "Worked two healthcare management applications under the FV Home platform: FV Provider for healthcare providers and FV Command Center for administrators. FV Provider helped healthcare providers manage consultations, nursing care requests, and patient profiles, while FV Command Center enabled administrators to manage operational tasks such as patient profile verification, health articles publication, and transportation scheduling. ",
-      "technologies": [
+      name: "FV Home (Provider and Command Center)",
+      description: "Worked on two healthcare management applications under the FV Home platform: FV Provider for healthcare providers and FV Command Center for administrators. FV Provider helped healthcare providers manage consultations, nursing care requests, and patient profiles, while FV Command Center enabled administrators to manage operational tasks such as patient profile verification, health articles publication, and transportation scheduling.",
+      technologies: [
         "React JS",
         "Redux",
         "Zoom SDK",
         "Tailwind CSS",
         "GitHub"
-      ]
+      ],
+      link:"https://cmd.fvhospital.com/"
+    },
+    {
+      name: "PDF Financial Data Extractor",
+      description:
+        "Developed a application for a listed Company that extracts and compares financial data from uploaded PDF documents and saves upto 80% time. Utilized Gemini AI to intelligently parse complex tables and textual data, returning a structured JSON for further analysis. Implemented secure file upload endpoints, real-time comparison logic, and integrated error handling for corrupted or invalid PDFs. Ensured scalability for large files and optimized performance for faster data processing.",
+      technologies: [
+        "Node.js",
+        "Express.js",
+        "Gemini AI",
+        "Multer",
+        "PDF.js",
+        "Postman",
+        "GitHub"
+      ],
     }
-    
   ],
 };

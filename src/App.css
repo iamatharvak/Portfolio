@@ -156,3 +156,22 @@ html {
     color: #191919 !important;
   }
 }
+
+.project-link {
+  font-size: 1rem; /* Default font size */
+  font-weight: 500; /* Slightly bold */
+  color: #1d4ed8; /* Tailwind's blue-500 */
+  transition: all 0.3s ease; /* Smooth transition for color and underline */
+  text-decoration: none; /* Remove underline initially */
+}
+
+.project-link:hover {
+  color: #2563eb; /* Tailwind's blue-600 */
+  text-decoration: underline; /* Add underline on hover */
+  transform: translateY(-2px); /* Slight lift effect */
+}
+
+.project-link:focus {
+  outline: none; /* Remove outline on focus */
+}
+
