@@ -3,6 +3,7 @@ Developer Portfolio
 A modern, responsive portfolio website showcasing my skills, professional journey, and projects.
 Built to provide recruiters, collaborators, and tech enthusiasts a quick and engaging overview of my expertise in full-stack development.
 
+--------------------------
 
 Features
 
@@ -18,6 +19,7 @@ Contact form and direct social links
 
 Deployed live on Vercel for global accessibility
 
+-------------------------
 
 Tech Stack
 
